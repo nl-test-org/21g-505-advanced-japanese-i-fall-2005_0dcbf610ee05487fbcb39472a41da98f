@@ -1,0 +1,38 @@
+---
+course_id: 21g-505-advanced-japanese-i-fall-2005
+layout: course_section
+menu:
+  leftnav:
+    identifier: 8cd195c0acc094c20d20f06074770211
+    name: Study Materials
+    weight: 370
+title: Study Materials
+type: course
+uid: 8cd195c0acc094c20d20f06074770211
+
+---
+
+Kanji Study Materials
+---------------------
+
+[Lesson 22](/ans7870/21f/21f.505/f05/studymaterials/lesson22.htm)
+
+[Lesson 23a](/ans7870/21f/21f.505/f05/studymaterials/lesson23a.htm)
+
+[Lesson 23b](/ans7870/21f/21f.505/f05/studymaterials/lesson23b.htm)
+
+[Lesson 24a](/ans7870/21f/21f.505/f05/studymaterials/lesson24a.htm)
+
+[Lesson 24b](/ans7870/21f/21f.505/f05/studymaterials/lesson24b.htm)
+
+[Lesson 25a](/ans7870/21f/21f.505/f05/studymaterials/lesson25a.htm)
+
+[Lesson 25b](/ans7870/21f/21f.505/f05/studymaterials/lesson25b.htm)
+
+[Lesson 26a](/ans7870/21f/21f.505/f05/studymaterials/lesson26a.htm)
+
+[Lesson 26b](/ans7870/21f/21f.505/f05/studymaterials/lesson26b.htm)
+
+[Lesson 27a](/ans7870/21f/21f.505/f05/studymaterials/lesson27a.htm)
+
+[Lesson 27b](/ans7870/21f/21f.505/f05/studymaterials/lesson27b.htm)
